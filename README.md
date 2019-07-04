@@ -1,21 +1,21 @@
 # Computational Thinking with p5.js
 
-Lectures, examples and other things from the UAL week long intensive course on Computational Thinking with p5.js at Central Saint Martins in July 2019.
+*Lectures, examples and other things from the UAL week long intensive course on Computational Thinking with p5.js at Central Saint Martins in July 2019.*
 
-This week-long creative computing intensive course will give participants a wide ranging knowledge of the history of creative computing, a survey of artists working in this area and advice for setting up a studio. This also includes a working knowledge of p5.js, a Javascript library for creative code on the web.
+This week-long creative computing intensive course will give participants a wide ranging knowledge of the history of creative computing, a survey of artists working in this area and advice for setting up a studio. This also includes a working knowledge of [p5.js](https://p5js.org/), a Javascript library for creative code on the web.
 
-What will the workshop involve?
+**What will the workshop involve?**
 
 Our goal is for participants to be able to be critical of current creative computing practice by not only being able to code, but by having knowledge of all the different fields that have contributed to creative computing as well as current practitioners and studios.
 
-Daily schedule:
+**Daily schedule:**
 
-10am - 11am: Lecture
-11am - 1pm: Workshop
-1pm - 2pm: Lunch
-2pm - 3pm: Lecture
-3pm - 4pm: Workshop
-5pm - 6pm: Discussion / Q&A
+* 10am - 11am: Lecture
+* 11am - 1pm: Workshop
+* 1pm - 2pm: Lunch
+* 2pm - 3pm: Lecture
+* 3pm - 4pm: Workshop
+* 5pm - 6pm: Discussion / Q&A
 
 Slides created using [Reveal.js](https://github.com/hakimel/reveal.js/).
 
