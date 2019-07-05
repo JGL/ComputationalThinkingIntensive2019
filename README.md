@@ -15,7 +15,7 @@ Our goal is for participants to be able to be critical of current creative compu
 * 1pm - 2pm: Lunch
 * 2pm - 3pm: Lecture
 * 3pm - 4pm: Workshop
-* 5pm - 6pm: Discussion / Q&A
+* 4pm - 5pm: Discussion / Q&A
 
 Slides created using [Reveal.js](https://github.com/hakimel/reveal.js/).
 
